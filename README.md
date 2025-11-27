@@ -23,7 +23,7 @@ pip install -r requirements.txt
 
 3. **数据库设置**
 - 创建名为 `cguan` 的数据库
-- 导入 `database/schema.sql` (如果需要)
+- 导入 `cguan.sql` (如果需要)
 
 4. **环境变量配置**
 - 复制 `.env.example` 为 `.env`
