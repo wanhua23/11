@@ -1,0 +1,8 @@
+Flask
+Flask-CORS
+PyMySQL
+DBUtils
+requests
+openai
+python-dotenv
+Werkzeug
