@@ -153,13 +153,10 @@ npm run dev
 1. 设置 `debug=False`
 2. 配置生产环境数据库
 3. 设置正确的 CORS 域名
-4. 配置 Web 服务器（Nginx + Gunicorn）
 
 ### 环境变量
 确保在生产环境中正确设置：
 - `DASHSCOPE_API_KEY`
-- 数据库连接信息
-- 其他敏感配置
 
 ## 注意事项
 
