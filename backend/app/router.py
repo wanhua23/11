@@ -121,7 +121,7 @@ def add():
         name = data.get("name")
         address = data.get("address")
         phone = data.get("phone")
-        cuisine_type = data.get("cuisine_type")  # 注意：前端是 cuisine_type
+        cuisine_type = data.get("cuisine_type")
         price_range = data.get("price_range")
         rating = data.get("rating")
         description = data.get("description")
