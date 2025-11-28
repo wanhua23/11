@@ -11,6 +11,9 @@
           :text-color="'#303133'"        
           :active-text-color="'#409EFF'" 
         >
+        <el-menu-item index="/manager/index" style="border-bottom: 1px solid #e4e7ed;">
+            <span>首页</span>
+          </el-menu-item>
           <el-menu-item index="/manager/list" style="border-bottom: 1px solid #e4e7ed;">
             <span>餐馆列表</span>
           </el-menu-item>

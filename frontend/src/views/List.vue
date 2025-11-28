@@ -120,6 +120,7 @@ const priceOptions = ref([
         method: "get",
       })
       restaurants.value = res.data.message
+      console.log(res.data.message)
     }
     getData()
 
