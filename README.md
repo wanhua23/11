@@ -55,6 +55,7 @@ changsha-restaurant-system/
 ├── frontend/                   # 前端代码
 │   ├── src/
 │   │   ├── views/             # 页面组件
+│   │   │   ├── index.vue      # 首页
 │   │   │   ├── List.vue       # 餐馆列表
 │   │   │   ├── add.vue        # 添加餐馆
 │   │   │   ├── put.vue        # 编辑餐馆
